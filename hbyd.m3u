@@ -120,7 +120,7 @@ http://111.48.34.237/PLTV/88888888/224/3221229806/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221229804/1.m3u8
 #EXTINF:-1 tvg-id="1783" tvg-name="湖北公共·新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="湖北频道",湖北公共
 http://111.48.34.237/PLTV/88888888/224/3221229800/1.m3u8
-#EXTINF:-1 tvg-id="1785" tvg-name="湖北垄上频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="湖北频道",湖北垄上
+#EXTINF:-1 tvg-id="1785" tvg-name="湖北垄上频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hubei7.png" group-title="湖北频道",湖北垄上
 http://111.48.34.237/PLTV/88888888/224/3221229833/1.m3u8
 #EXTINF:-1 tvg-id="1779" tvg-name="湖北影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="湖北频道",湖北影视
 http://111.48.34.237/PLTV/88888888/224/3221230404/1.m3u8
