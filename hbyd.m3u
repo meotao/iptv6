@@ -233,6 +233,8 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221229800/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229804/1.m3u8
 #EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hubei7.png" group-title="湖北频道",湖北垄上
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229833/1.m3u8
+#EXTINF:-1 tvg-id="武汉新闻综合" tvg-name="武汉新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV1.png" group-title="湖北频道",武汉新闻综合
+http://111.48.246.74/000000001000PLTV/88888888/224/3221229763/1.m3u8
 #EXTINF:-1 tvg-id="武汉教育" tvg-name="武汉教育电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WETV.png" group-title="湖北频道",武汉教育
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229783/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",襄阳综合
