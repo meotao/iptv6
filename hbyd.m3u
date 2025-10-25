@@ -49,8 +49,27 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230389/1.m3u8
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CETV4.png" group-title="央视高清",CETV-4 职业教育
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230466/1.m3u8
 
+# 国际频道/16个频道
+#EXTINF:-1 tvg-id="PHzx" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/International/Phoenix2.png" group-title="国际时事",凤凰资讯
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230647/1.m3u8
+#EXTINF:-1 tvg-id="PHzw" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/International/Phoenix1.png" group-title="国际时事",凤凰中文
+
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="📺央视频道",CGTN英语
+http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="📺央视频道",CGTN记录
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230529/1.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="📺央视频道",CGTN俄语
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230478/1.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="📺央视频道",CGTN法语
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230533/1.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="📺央视频道",CGTN西语
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230480/1.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="📺央视频道",CGTN阿语
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230531/1.m3u8
 
 # 卫视高清/28个频道
+#EXTINF:-1 tvg-id="Guangdong_yd" tvg-name="广东移动" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",广东移动
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230606/1.m3u8
 #EXTINF:-1 tvg-id="hunan" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Hunan.png" group-title="卫视高清",湖南卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229739/1.m3u8
 #EXTINF:-1 tvg-id="zhejiang" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Zhejiang.png" group-title="卫视高清",浙江卫视
@@ -101,40 +120,36 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221229901/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229786/1.m3u8
 #EXTINF:-1 tvg-id="yunnan" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Yunnan.png" group-title="卫视高清",云南卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230365/1.m3u8
-#EXTINF:-1 tvg-id="sansha" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Sansha.png" group-title="卫视高清",三沙卫视
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230410/1.m3u8
 #EXTINF:-1 tvg-id="qinghai" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Qinghai.png" group-title="卫视高清",青海卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230101/1.m3u8
 #EXTINF:-1 tvg-id="xinjiang" tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Xinjiang.png" group-title="卫视高清",新疆卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230030/1.m3u8
 #EXTINF:-1 tvg-id="xizang" tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Xizang.png" group-title="卫视高清",西藏卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230103/1.m3u8
+#EXTINF:-1 tvg-id="bingtuan" tvg-name="兵团卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Bingtuan.png" group-title="卫视高清",兵团卫视
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230032/1.m3u8
+# 卫视标清/11个频道
 #EXTINF:-1 tvg-id="neimeng" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Neimeng.png" group-title="卫视高清",内蒙古卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230039/1.m3u8
-
-
-# 卫视标清/11个频道
 #EXTINF:-1 tvg-id="shanxit" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Shanxi_.png" group-title="卫视高清",山西卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230038/1.m3u8
 #EXTINF:-1 tvg-id="shanxix" tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Shanxi.png" group-title="卫视高清",陕西卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230525/1.m3u8
 #EXTINF:-1 tvg-id="ningxia" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Ningxia.png" group-title="卫视高清",宁夏卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230036/1.m3u8
-#EXTINF:-1 tvg-id="bingtuan" tvg-name="兵团卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Bingtuan.png" group-title="卫视高清",兵团卫视
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230032/1.m3u8
 #EXTINF:-1 tvg-id="kangba" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Kangba.png" group-title="卫视高清",康巴卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230555/1.m3u8
 #EXTINF:-1 tvg-id="yanbian" tvg-name="延边卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Yanbian.png" group-title="卫视高清",延边卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230557/1.m3u8
 #EXTINF:-1 tvg-id="xiamen" tvg-name="厦门卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Xiamen.png" group-title="卫视高清",厦门卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230498/1.m3u8
+#EXTINF:-1 tvg-id="sansha" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Sansha.png" group-title="卫视高清",三沙卫视
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230410/1.m3u8
 
 
 
 
 # 风云系列/12个频道 湖南移动
-#EXTINF:-1 tvg-id="CCTVfyjc" tvg-name="风云剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVfyjc.png" group-title="数字高清",风云剧场
-http://10.10.10.100/IPTV/hnlt.php?id=a7fcc28610f5449dbd6115fa1c2bf689
 #EXTINF:-1 tvg-id="CCTVfyyy" tvg-name="风云音乐" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVfyyy.png" group-title="数字高清",风云音乐
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230089/1.m3u8
 #EXTINF:-1 tvg-id="CCTVdyjc" tvg-name="第一剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVdyjc.png" group-title="数字高清",第一剧场
@@ -149,8 +164,6 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230162/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230091/1.m3u8
 #EXTINF:-1 tvg-id="CCTVsjdl" tvg-name="世界地理" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVsjdl.png" group-title="数字高清",世界地理
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230072/1.m3u8
-#EXTINF:-1 tvg-id="CCTVyswhjp" tvg-name="文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVyswhjp.png" group-title="数字高清",文化精品
-http://10.10.10.100/IPTV/hnlt.php?id=12c14e81096f420b87604cc2d6536a46
 #EXTINF:-1 tvg-id="CCTVystq" tvg-name="央视台球" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVystq.png" group-title="数字高清",央视台球
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230173/1.m3u8
 #EXTINF:-1 tvg-id="CCTVysgw" tvg-name="央视高网" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVgefwq.png" group-title="数字高清",高尔夫网球
@@ -178,8 +191,6 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221229871/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229814/1.m3u8
 #EXTINF:-1 tvg-id="jykt" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/jykt.png" group-title="数字高清",金鹰卡通
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230468/1.m3u8
-#EXTINF:-1 tvg-id="xfpy" tvg-name="先锋乒羽" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/xfpy.png" group-title="数字高清",先锋乒羽
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230436/1.m3u8
 #EXTINF:-1 tvg-id="wssj" tvg-name="武术世界" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/wssj.png" group-title="数字高清",武术世界
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230549/1.m3u8
 #EXTINF:-1 tvg-id="wwbk" tvg-name="文物宝库" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/wwbk.png" group-title="数字高清",文物宝库
@@ -190,19 +201,8 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230496/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230428/1.m3u8
 #EXTINF:-1 tvg-id="hhxd" tvg-name="哈哈炫动" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/hhxd.png" group-title="数字高清",哈哈炫动
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230578/1.m3u8
-#EXTINF:-1 tvg-id="jjkt" tvg-name="嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/jjkt.png" group-title="数字高清",嘉佳卡通
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230580/1.m3u8
-#EXTINF:-1 tvg-id="xindm" tvg-name="新动漫" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/xindm.png" group-title="数字高清",新动漫
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230487/1.m3u8
-
-
-# 数字标清/17个频道 湖南移动
-#EXTINF:-1 tvg-id="lgs" tvg-name="老故事" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CNDlgs.png" group-title="数字高清",老故事
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
 #EXTINF:-1 tvg-id="qimo" tvg-name="汽摩" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/qimo.png" group-title="数字高清",汽摩
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230490/1.m3u8
-
-http://10.10.10.100/IPTV/hnlt.php?id=137da8eee80a4dae89424f99c0cd12f8
 #EXTINF:-1 tvg-id="hxjc4k" tvg-name="欢笑剧场4K" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/hxjc4k.png" group-title="数字高清",欢笑剧场4K
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230500/1.m3u8
 #EXTINF:-1 tvg-id="dsjc" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/dsjc.png" group-title="数字高清",都市剧场
@@ -230,29 +230,22 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230584/1.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="数字高清",睛彩广场舞
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230582/1.m3u8
 
-# 国际频道/16个频道
-#EXTINF:-1 tvg-id="PHzx" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/International/Phoenix2.png" group-title="国际时事",凤凰资讯
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230647/1.m3u8
-#EXTINF:-1 tvg-id="PHzw" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/International/Phoenix1.png" group-title="国际时事",凤凰中文
-rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="📺央视频道",CGTN英语
-http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="📺央视频道",CGTN记录
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230529/1.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="📺央视频道",CGTN俄语
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230478/1.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="📺央视频道",CGTN法语
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230533/1.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="📺央视频道",CGTN西语
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230480/1.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="📺央视频道",CGTN阿语
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230531/1.m3u8
+# 数字标清/17个频道 湖南移动
+#EXTINF:-1 tvg-id="xfpy" tvg-name="先锋乒羽" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/xfpy.png" group-title="数字高清",先锋乒羽
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230436/1.m3u8
+#EXTINF:-1 tvg-id="jjkt" tvg-name="嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/jjkt.png" group-title="数字高清",嘉佳卡通
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230580/1.m3u8
+#EXTINF:-1 tvg-id="xindm" tvg-name="新动漫" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/xindm.png" group-title="数字高清",新动漫
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230487/1.m3u8
+#EXTINF:-1 tvg-id="lgs" tvg-name="老故事" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CNDlgs.png" group-title="数字高清",老故事
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230539/1.m3u8
+
+
 
 
 # 广东/11个频道
 
-#EXTINF:-1 tvg-id="Guangdong_yd" tvg-name="广东移动" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",广东移动
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230606/1.m3u8
+
 
 
 # 湖北/7个频道
@@ -300,14 +293,6 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230572/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230556/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",黄石都市
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230558/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",鄂州新闻综合
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230562/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",鄂州公共
-http://111.48.34.138/000000001000PLTV/88888888/224/3221230564/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",咸宁综合
-http://111.48.34.138/000000001000PLTV/88888888/224/3221229876/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",咸宁经济生活
-http://111.48.34.138/000000001000PLTV/88888888/224/3221229907/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",随州综合
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230593/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",随州农村
@@ -316,6 +301,14 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230568/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230344/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",十堰经济旅游
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230368/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",鄂州新闻综合
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230562/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",鄂州公共
+http://111.48.34.138/000000001000PLTV/88888888/224/3221230564/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",咸宁综合
+http://111.48.34.138/000000001000PLTV/88888888/224/3221229876/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",咸宁经济生活
+http://111.48.34.138/000000001000PLTV/88888888/224/3221229907/1.m3u8
 
 
 
