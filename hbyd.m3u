@@ -41,6 +41,8 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230571/1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="🌊港·澳·台",凤凰资讯
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230647/1.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="🌊港·澳·台",凤凰中文
+rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="💰央视付费频道",兵器科技
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230162/1.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
