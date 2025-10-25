@@ -54,17 +54,17 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230466/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230647/1.m3u8
 #EXTINF:-1 tvg-id="PHzw" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/International/Phoenix1.png" group-title="国际时事",凤凰中文
 
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="国际时事",CGTN英语
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN.png" group-title="国际时事",CGTN英语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="国际时事",CGTN记录
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="国际时事",CGTN记录
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230529/1.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="国际时事",CGTN俄语
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN俄语.png" group-title="国际时事",CGTN俄语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230478/1.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="国际时事",CGTN法语
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN法语.png" group-title="国际时事",CGTN法语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230533/1.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="国际时事",CGTN西语
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN西语.png" group-title="国际时事",CGTN西语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230480/1.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="国际时事",CGTN阿语
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN阿语.png" group-title="国际时事",CGTN阿语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230531/1.m3u8
 
 # 卫视高清/28个频道
