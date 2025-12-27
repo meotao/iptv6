@@ -128,6 +128,12 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230030/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230103/1.m3u8
 #EXTINF:-1 tvg-id="bingtuan" tvg-name="兵团卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Bingtuan.png" group-title="卫视高清",兵团卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230032/1.m3u8
+#EXTINF:-1 tvg-id="hunan" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Hunan.png" group-title="卫视高清",湖南卫视4k
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000541
+#EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Beijing.png" group-title="卫视高清",北京卫视4k
+rtsp://111.48.34.138:1554/170000004112/HBGD1099046553413197824376375621
+#EXTINF:-1 tvg-id="shandong" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Shandong.png" group-title="卫视高清",山东卫视4k
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000432
 # 卫视标清/11个频道
 #EXTINF:-1 tvg-id="neimeng" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Neimeng.png" group-title="卫视高清",内蒙古卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230039/1.m3u8
