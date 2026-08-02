@@ -5,7 +5,7 @@ http://111.48.34.237/000000000000/PLTV/88888888/224/3221229665/1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV2.png" group-title="央视高清",CCTV-2 财经
 http://111.48.34.221/000000000000/PLTV/88888888/224/3221229893/1.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV3.png" group-title="央视高清",CCTV-3 综艺
-http://111.48.34.210/000000000000/PLTV/88888888/224/3221230150/1.m3u8
+http://111.48.34.212/000000000000/PLTV/88888888/224/3221230150/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
 http://111.48.34.170/000000000000/PLTV/88888888/224/3221229862/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4oz" tvg-name="CCTV4欧洲" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV4oz.png" group-title="央视高清",CCTV-4 欧洲 
@@ -15,7 +15,7 @@ http://111.48.34.237/000000000000/PLTV/88888888/224/3221230585/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV5.png" group-title="央视高清",CCTV-5 体育
 http://111.48.34.237/000000000000/PLTV/88888888/224/3221230165/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV5+.png" group-title="央视高清",CCTV-5+ 体育赛事
-http://111.48.34.191/000000000000/PLTV/88888888/224/3221230455/1.m3u8
+http://111.48.34.191/000000000000/PLTV/88888888/224/3221230694/1.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV6.png" group-title="央视高清",CCTV-6 电影
 http://111.48.34.237/000000000000/PLTV/88888888/224/3221230154/1.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV7.png" group-title="央视高清",CCTV-7 国防军事
@@ -126,7 +126,6 @@ http://111.48.34.173/000000000000/PLTV/88888888/224/3221230030/1.m3u8
 http://111.48.34.190/000000000000/PLTV/88888888/224/3221230103/1.m3u8
 #EXTINF:-1 tvg-id="bingtuan" tvg-name="兵团卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Bingtuan.png" group-title="卫视高清",兵团卫视
 http://111.48.34.231/000000000000/PLTV/88888888/224/3221230032/1.m3u8
-# 卫视标清/11个频道
 #EXTINF:-1 tvg-id="neimeng" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Neimeng.png" group-title="卫视高清",内蒙古卫视
 http://111.48.34.237/000000000000/PLTV/88888888/224/3221230039/1.m3u8
 #EXTINF:-1 tvg-id="shanxit" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Shanxi_.png" group-title="卫视高清",山西卫视
@@ -135,6 +134,7 @@ http://111.48.34.237/000000000000/PLTV/88888888/224/3221230038/1.m3u8
 http://111.48.34.206/000000000000/PLTV/88888888/224/3221230525/1.m3u8
 #EXTINF:-1 tvg-id="ningxia" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Ningxia.png" group-title="卫视高清",宁夏卫视
 http://111.48.34.237/000000000000/PLTV/88888888/224/3221230036/1.m3u8
+# 卫视标清/11个频道
 #EXTINF:-1 tvg-id="kangba" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Kangba.png" group-title="卫视高清",康巴卫视
 http://111.48.34.154/000000000000/PLTV/88888888/224/3221230555/1.m3u8
 #EXTINF:-1 tvg-id="yanbian" tvg-name="延边卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Yanbian.png" group-title="卫视高清",延边卫视
