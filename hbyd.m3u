@@ -155,7 +155,7 @@ http://111.48.34.169/000000000000/PLTV/88888888/224/3221230541/1.m3u8
 #EXTINF:-1 tvg-id="CCTVdyjc" tvg-name="第一剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVdyjc.png" group-title="数字高清",第一剧场
 http://111.48.34.183/000000000000/PLTV/88888888/224/3221230488/1.m3u8
 #EXTINF:-1 tvg-id="CCTVnxss" tvg-name="女性时尚" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVnxss.png" group-title="数字高清",女性时尚
-http://111.48.34.185/000000000000/PLTV/88888888/224/3221230545/1.m3u8
+
 #EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVfyzq.png" group-title="数字高清",风云足球
 http://111.48.34.162/000000000000/PLTV/88888888/224/3221230482/1.m3u8
 #EXTINF:-1 tvg-id="CCTVbqkj" tvg-name="兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVbqkj.png" group-title="数字高清",兵器科技
@@ -183,7 +183,7 @@ http://111.48.34.234/000000000000/PLTV/88888888/224/3221230434/1.m3u8
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="数字高清",乐游
 http://111.48.34.157/000000000000/PLTV/88888888/224/3221230588/1.m3u8
 #EXTINF:-1 tvg-id="chapd" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/chapd.png" group-title="数字高清",茶频道
-http://111.48.34.237/000000000000/PLTV/88888888/224/3221229873/1.m3u8
+
 #EXTINF:-1 tvg-id="klcd" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/klcd.png" group-title="数字高清",快乐垂钓
 http://111.48.34.172/000000000000/PLTV/88888888/224/3221229871/1.m3u8
 #EXTINF:-1 tvg-id="jyjs" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/jyjs.png" group-title="数字高清",金鹰纪实
@@ -202,7 +202,7 @@ http://111.48.34.159/000000000000/PLTV/88888888/224/3221230040/1.m3u8
 http://111.48.34.181/000000000000/PLTV/88888888/224/3221230578/1.m3u8
 #EXTINF:-1 tvg-id="qimo" tvg-name="汽摩" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/qimo.png" group-title="数字高清",汽摩
 http://111.48.34.149/000000000000/PLTV/88888888/224/3221230490/1.m3u8
-#EXTINF:-1 tvg-id="hxjc4k" tvg-name="欢笑剧场4K" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/hxjc4k.png" group-title="数字高清",欢笑剧场4K
+#EXTINF:-1 tvg-id="hxjc4k" tvg-name="多彩文体4K" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/hxjc4k.png" group-title="数字高清",欢笑剧场4K
 http://111.48.34.237/000000000000/PLTV/88888888/224/3221230500/1.m3u8
 #EXTINF:-1 tvg-id="dsjc" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/dsjc.png" group-title="数字高清",都市剧场
 http://111.48.34.155/000000000000/PLTV/88888888/224/3221230607/1.m3u8
@@ -228,7 +228,7 @@ http://111.48.34.208/000000000000/PLTV/88888888/224/3221230584/1.m3u8
 http://111.48.34.178/000000000000/PLTV/88888888/224/3221230582/1.m3u8
 # 数字标清/4个频道 
 #EXTINF:-1 tvg-id="xfpy" tvg-name="先锋乒羽" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/xfpy.png" group-title="数字高清",先锋乒羽
-http://111.48.34.237/000000000000/PLTV/88888888/224/3221230436/1.m3u8
+
 #EXTINF:-1 tvg-id="jjkt" tvg-name="嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/jjkt.png" group-title="数字高清",嘉佳卡通
 http://111.48.34.164/000000000000/PLTV/88888888/224/3221230580/1.m3u8
 #EXTINF:-1 tvg-id="xindm" tvg-name="新动漫" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/xindm.png" group-title="数字高清",新动漫
