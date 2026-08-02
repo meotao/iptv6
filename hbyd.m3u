@@ -87,25 +87,25 @@ http://111.48.34.181/000000000000/PLTV/88888888/224/3221230535/1.m3u8
 http://111.48.34.168/000000000000/PLTV/88888888/224/3221230492/1.m3u8
 #EXTINF:-1 tvg-name="CCTV老故事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV老故事.png" group-title="央视频道",CCTV老故事
 http://111.48.34.162/000000000000/PLTV/88888888/224/3221230539/1.m3u8
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="央视频道",CETV-1 综合教育
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV1.png" group-title="央视频道",CETV-1 综合教育
 http://111.48.34.169/000000000000/PLTV/88888888/224/3221229790/1.m3u8
-#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="央视频道",CETV-2 空中课堂
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV2.png" group-title="央视频道",CETV-2 空中课堂
 http://111.48.34.146/000000000000/PLTV/88888888/224/3221230389/1.m3u8
-#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://live.fanmingming.cn/tv/CETV3.png" group-title="央视频道",CETV-3 教育服务
+#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV3.png" group-title="央视频道",CETV-3 教育服务
 
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="央视频道",CETV-4 职业教育
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV4.png" group-title="央视频道",CETV-4 职业教育
 http://111.48.34.146/000000000000/PLTV/88888888/224/3221230466/1.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.giteeusercontent.com/suxuang/epglogo/raw/master/cctv/CGTN.png" group-title="央视频道",CGTN英语
 http://111.48.34.237/000000000000/PLTV/88888888/224/3221229681/1.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.giteeusercontent.com/suxuang/epglogo/raw/master/cctv/CGTNDoc.png" group-title="央视频道",CGTN记录
 http://111.48.34.237/000000000000/PLTV/88888888/224/3221230529/1.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://raw.giteeusercontent.com/suxuang/epglogo/raw/master/cctv/CGTNpyc.png" group-title="央视频道",CGTN俄语
 http://111.48.34.237/000000000000/PLTV/88888888/224/3221230478/1.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://raw.giteeusercontent.com/suxuang/epglogo/raw/master/cctv/CGTNFfra.png" group-title="央视频道",CGTN法语
 http://111.48.34.237/000000000000/PLTV/88888888/224/3221230533/1.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://raw.giteeusercontent.com/suxuang/epglogo/raw/master/cctv/CGTNesp.png" group-title="央视频道",CGTN西语
 http://111.48.34.237/000000000000/PLTV/88888888/224/3221230480/1.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://raw.giteeusercontent.com/suxuang/epglogo/raw/master/cctv/CGTNalb.png" group-title="央视频道",CGTN阿语
 http://111.48.34.237/000000000000/PLTV/88888888/224/3221230531/1.m3u8
 
 
