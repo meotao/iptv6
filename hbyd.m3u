@@ -299,31 +299,16 @@ http://111.48.34.188/000000000000/PLTV/88888888/224/3221229876/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北频道",咸宁经济生活
 http://111.48.34.185/000000000000/PLTV/88888888/224/3221229907/1.m3u8
 
-#EXTINF:-1,tvg-id="百事电影3" tvg-name="百视通" tvg-logo="https://epg.112114.xyz/logo/百事电影3.png" group-title="其他",百事电影3
-http://111.48.34.202/000000000000/PLTV/88888888/224/3221230683/1.m3u8
-#EXTINF:-1,tvg-id="百视通10" tvg-name="bestv体育" tvg-logo="https://epg.112114.xyz/logo/百视通10.png" group-title="其他",百视通10
+#EXTINF:-1,tvg-id="百视通10" tvg-name="bestv体育" tvg-logo="https://epg.112114.xyz/logo/百视通10.png" group-title="其他",bestv体育
 http://111.48.34.202/000000000000/PLTV/88888888/224/3221230687/1.m3u8
-#EXTINF:-1,tvg-id="百视通9" tvg-name="百视通少儿" tvg-logo="https://epg.112114.xyz/logo/百视通9.png" group-title="其他",百视通9
-http://111.48.34.195/000000000000/PLTV/88888888/224/3221230685/1.m3u8
-#EXTINF:-1,tvg-id="百视通7" tvg-name="百视通节目" tvg-logo="https://epg.112114.xyz/logo/百视通7.png" group-title="其他",百视通7
+#EXTINF:-1,tvg-id="百视通7" tvg-name="百视通节目" tvg-logo="https://epg.112114.xyz/logo/百视通7.png" group-title="其他",百视通节目
 http://111.48.34.195/000000000000/PLTV/88888888/224/3221230681/1.m3u8
-#EXTINF:-1,tvg-id="百事剧集1" tvg-name="百事纪实" tvg-logo="https://epg.112114.xyz/logo/百事剧集1.png" group-title="其他",百事剧集1
+#EXTINF:-1,tvg-id="百事剧集1" tvg-name="百事纪实" tvg-logo="https://epg.112114.xyz/logo/百事剧集1.png" group-title="其他",百视通纪实
 http://111.48.34.163/000000000000/PLTV/88888888/224/3221230648/1.m3u8
-#EXTINF:-1,tvg-id="百事电影3" tvg-name="百视通小蜜蜂" tvg-logo="https://epg.112114.xyz/logo/百事电影3.png" group-title="其他",百事电影3
-http://111.48.34.176/000000000000/PLTV/88888888/224/3221230054/1.m3u8
-#EXTINF:-1,tvg-id="百事电影3" tvg-name="百视通音乐" tvg-logo="https://epg.112114.xyz/logo/百事电影3.png" group-title="其他",百事电影3
-http://111.48.34.202/000000000000/PLTV/88888888/224/3221230695/1.m3u8
-#EXTINF:-1,tvg-id="百事电影3" tvg-name="百视通娱乐" tvg-logo="https://epg.112114.xyz/logo/百事电影3.png" group-title="其他",百事电影3
-http://111.48.34.202/000000000000/PLTV/88888888/224/3221230693/1.m3u8
-#EXTINF:-1,tvg-id="百视通4" tvg-name="百视通电竞" tvg-logo="https://epg.112114.xyz/logo/百视通4.png" group-title="其他",百视通4
-http://111.48.34.219/000000000000/PLTV/88888888/224/3221230654/1.m3u8
-#EXTINF:-1,tvg-id="百视通5" tvg-name="百视通棒球" tvg-logo="https://epg.112114.xyz/logo/百视通5.png" group-title="其他",百视通5
-http://111.48.34.228/000000000000/PLTV/88888888/224/3221230656/1.m3u8
 #EXTINF:-1,tvg-id="百视通3" tvg-name="百视通动漫" tvg-logo="https://epg.112114.xyz/logo/百视通3.png" group-title="其他",百视通3
 http://111.48.34.222/000000000000/PLTV/88888888/224/3221230652/1.m3u8
 #EXTINF:-1,tvg-id="百视通2" tvg-name="百视通美食" tvg-logo="https://epg.112114.xyz/logo/百视通2.png" group-title="其他",百视通2
 http://111.48.34.158/000000000000/PLTV/88888888/224/3221230650/1.m3u8
-
 #EXTINF:-1,tvg-id="百事电影3" tvg-name="百视通电影" tvg-logo="https://epg.112114.xyz/logo/百事电影3.png" group-title="其他",百事电影3
 http://111.48.34.192/000000000000/PLTV/88888888/224/3221230691/1.m3u8
 #EXTINF:-1,tvg-id="百视通8" tvg-name="百视通国语电影" tvg-logo="https://epg.112114.xyz/logo/百视通8.png" group-title="其他",百视通8
@@ -338,6 +323,22 @@ http://111.48.34.210/000000000000/PLTV/88888888/224/3221230675/1.m3u8
 http://111.48.34.204/000000000000/PLTV/88888888/224/3221230642/1.m3u8
 #EXTINF:-1,tvg-id="百视通6" tvg-name="百视通古装剧" tvg-logo="https://epg.112114.xyz/logo/百视通6.png" group-title="其他",百视通6
 http://111.48.34.204/000000000000/PLTV/88888888/224/3221230679/1.m3u8
+
+#EXTINF:-1,tvg-id="百事电影3" tvg-name="百视通" tvg-logo="https://epg.112114.xyz/logo/百事电影3.png" group-title="其他",百事电影3
+http://111.48.34.202/000000000000/PLTV/88888888/224/3221230683/1.m3u8
+#EXTINF:-1,tvg-id="百视通9" tvg-name="百视通少儿" tvg-logo="https://epg.112114.xyz/logo/百视通9.png" group-title="其他",百视通少儿
+http://111.48.34.195/000000000000/PLTV/88888888/224/3221230685/1.m3u8
+#EXTINF:-1,tvg-id="百事电影3" tvg-name="百视通小蜜蜂" tvg-logo="https://epg.112114.xyz/logo/百事电影3.png" group-title="其他",百事电影3
+http://111.48.34.176/000000000000/PLTV/88888888/224/3221230054/1.m3u8
+
+#EXTINF:-1,tvg-id="百事电影3" tvg-name="百视通音乐" tvg-logo="https://epg.112114.xyz/logo/百事电影3.png" group-title="其他",百事电影3
+http://111.48.34.202/000000000000/PLTV/88888888/224/3221230695/1.m3u8
+#EXTINF:-1,tvg-id="百事电影3" tvg-name="百视通娱乐" tvg-logo="https://epg.112114.xyz/logo/百事电影3.png" group-title="其他",百视通娱乐
+http://111.48.34.202/000000000000/PLTV/88888888/224/3221230693/1.m3u8
+#EXTINF:-1,tvg-id="百视通4" tvg-name="百视通电竞" tvg-logo="https://epg.112114.xyz/logo/百视通4.png" group-title="其他",百视通4
+http://111.48.34.219/000000000000/PLTV/88888888/224/3221230654/1.m3u8
+#EXTINF:-1,tvg-id="百视通5" tvg-name="百视通棒球" tvg-logo="https://epg.112114.xyz/logo/百视通5.png" group-title="其他",百视通5
+http://111.48.34.228/000000000000/PLTV/88888888/224/3221230656/1.m3u8
 
 
 
