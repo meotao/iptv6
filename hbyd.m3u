@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #4K频道
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="4K频道",CCTV4K
-http://111.48.34.238/000000000000/PLTV/88888888/224/3221230571/1.m3u8
+CCTV-4K,http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6604ddd5cf779/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视4K.png" http-user-agent="aliplayer" group-title="4K频道",东方卫视4K
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视4K.png" http-user-agent="aliplayer" group-title="4K频道",湖南卫视4K
@@ -18,13 +18,13 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 
 #央视频道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV1
-http://111.48.34.238/000000000000/PLTV/88888888/224/3221229665/1.m3u8
+http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="央视频道",CCTV2
-http://111.48.34.238/000000000000/PLTV/88888888/224/3221229893/1.m3u8
+http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV3
-http://111.48.34.238/000000000000/PLTV/88888888/224/3221230150/1.m3u8
+http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638727c125355/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="央视频道",CCTV4
-http://111.48.34.238/000000000000/PLTV/88888888/224/3221229862/1.m3u8
+http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV5
 http://111.48.34.238/000000000000/PLTV/88888888/224/3221230165/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="央视频道",CCTV5+
